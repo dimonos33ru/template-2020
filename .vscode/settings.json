@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"**/html/**/*.html": "handlebars",
+	},
+	"files.exclude": {
+		"**/.gitattributes": true,
+		"**/.gitignore": true,
+		"**/.vscode": true,
+		"**/package-lock.json": true
+	},
+	// "editor.formatOnSave": false
+}
